@@ -8,7 +8,7 @@ public class ProgramLogger {
 
     }
 
-    public static ProgramLogger getInstance() {
+    public static synchronized ProgramLogger getInstance() {
         if (instance == null) {
             return new ProgramLogger();
         }
