@@ -1,4 +1,4 @@
-package com.is.factory;
+package com.is.factory.first_example;
 
 public class DogFactory implements AnimalFactory{
     @Override

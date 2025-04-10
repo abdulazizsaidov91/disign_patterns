@@ -1,6 +1,9 @@
 package com.is;
 
-import com.is.factory.*;
+import com.is.factory.first_example.AnimalFactory;
+import com.is.factory.first_example.CatFactory;
+import com.is.factory.first_example.DogFactory;
+import com.is.factory.first_example.RabbitFactrory;
 
 public class Main {
     public static void main(String[] args) {

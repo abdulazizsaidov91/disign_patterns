@@ -1,4 +1,4 @@
-package com.is.abstractfactory;
+package com.is.abstractfactory.first_example;
 
 public interface Bed {
     void createBad();

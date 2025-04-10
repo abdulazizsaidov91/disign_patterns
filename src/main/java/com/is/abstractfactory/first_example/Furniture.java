@@ -1,4 +1,4 @@
-package com.is.abstractfactory;
+package com.is.abstractfactory.first_example;
 
 public class Furniture {
     public static void main(String[] args) {
